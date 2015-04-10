@@ -1,1 +1,3 @@
 bin/
+.settings/
+.apt_generated/
